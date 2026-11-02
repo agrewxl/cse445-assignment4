@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 
 <NationalPark>
 
@@ -43,7 +42,6 @@
 
   <NationalPark>
     <Name>Yellowstone</Name>
-    <Phone>307-344-7381</Phone>
     <Address NearestAirport="Yellowstone Airport">
       <Number>1</Number>
       <Street>Yellowstone Park Road</Street>
@@ -97,7 +95,7 @@
       <Street>Visitor Center Road</Street>
       <City>Bar Harbor</City>
       <State>ME</State>
-      <Zip>4609</Zip>
+      <Zip>04609</Zip>
     </Address>
   </NationalPark>
 
@@ -122,10 +120,12 @@
       <City>Twentynine Palms</City>
       <State>CA</State>
       <Zip>92277</Zip>
+    </Address>
   </NationalPark>
 
   <NationalPark Rating="4.7">
     <Name>Arches</Name>
+    <Phone>435-719-2299</Phone>
     <Address NearestAirport="Canyonlands Field Airport">
       <Number>2282</Number>
       <Street>South Resource Boulevard</Street>
